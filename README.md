@@ -260,10 +260,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Credits
 This enhanced version is built upon the excellent foundation provided by Dr. Sreenivas Bhattiprolu's original DigitalSreeni Image Annotator. All original functionality has been preserved, and additional features have been added to enhance the user experience and capabilities.
 
-## 📞 Contact
-
-Dr. Sreenivas Bhattiprolu - [@DigitalSreeni](https://twitter.com/DigitalSreeni)
-
 ## 🔗 Links
 
 - [Original Project](https://github.com/bnsreenu/digitalsreeni-image-annotator)
