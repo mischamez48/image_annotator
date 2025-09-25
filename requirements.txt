@@ -1,0 +1,29 @@
+# DigitalSreeni Image Annotator - Easy Installation Requirements
+# Core GUI framework
+PyQt5>=5.15.0
+
+# Image processing libraries
+Pillow>=10.0.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+scikit-image>=0.21.0
+
+# File format support
+tifffile>=2023.1.0
+czifile>=2019.7.0
+pydicom>=2.4.0
+
+# Data processing
+pyyaml>=6.0
+shapely>=2.0.0
+plotly>=5.15.0
+
+# Machine Learning (SAM2 and YOLO)
+ultralytics>=8.0.0
+
+# Image registration
+pystackreg>=0.2.0
+
+# Optional: For better performance (uncomment if needed)
+# torch>=2.0.0
+# torchvision>=0.15.0
