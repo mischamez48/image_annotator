@@ -1,4 +1,4 @@
-# DigitalSreeni Image Annotator - Enhanced Version
+# Image Annotator Tool (based on Dr. Sreenivas Bhattiprolu initial tool)
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -10,12 +10,9 @@ A powerful and user-friendly tool for annotating images with polygons, rectangle
 
 > **Note**: This is an enhanced fork of the original [DigitalSreeni Image Annotator](https://github.com/bnsreenu/digitalsreeni-image-annotator) by Dr. Sreenivas Bhattiprolu. All original functionality is preserved with additional features added on top.
 
-## ✨ Enhanced Features (Added to Original)
+## ✨ Enhanced Feature (Added to Original)
 
 - **Multiple SAM-2 Prompt Modalities**: Points, Bounding Boxes, and Masks
-- **Enhanced Merge Functionality**: Properly merges different annotation types (rectangles with polygons)
-- **Improved User Experience**: Better keyboard shortcuts and visual feedback
-- **Easy Installation**: One-click setup scripts for different platforms
 
 ## 🎯 Original Features (by Dr. Sreenivas Bhattiprolu)
 
